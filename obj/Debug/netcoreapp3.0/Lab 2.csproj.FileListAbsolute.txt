@@ -1,0 +1,82 @@
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.exe
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.deps.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.runtimeconfig.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.runtimeconfig.dev.json
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.pdb
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.Views.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Lab 2.Views.pdb
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.csprojAssemblyReference.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\staticwebassets\Lab 2.StaticWebAssets.Manifest.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\staticwebassets\Lab 2.StaticWebAssets.xml
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.RazorAssemblyInfo.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.RazorAssemblyInfo.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.AssemblyInfoInputs.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.AssemblyInfo.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.TagHelpers.input.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.TagHelpers.output.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.RazorCoreGenerate.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.RazorTargetAssemblyInfo.cache
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.RazorTargetAssemblyInfo.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.Views.pdb
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.pdb
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Lab 2.csproj.CopyComplete
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Catalog\index.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\obj\Debug\netcoreapp3.0\Razor\Views\Catalog\Register.cshtml.g.cs
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mykg0\Desktop\FSDI 110 Aspnet\Lab 2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
